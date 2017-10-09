@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/Program Files/Analog Devices/VisualDSP 4.5/System/linker_log.xsl"?>
+<DOCUMENT gen_time='Tue Feb 14 20:56:05 2012
+'>
+<MSG id='01ACBB38' mid='li1040' type='Error'>
+<FILE><![CDATA[C:\Program Files\Analog Devices\VisualDSP 4.5\TS\ldf\ADSP-TS201.ldf]]></FILE>
+<FILE_LINE><![CDATA[232]]></FILE_LINE>
+<TEXT><![CDATA[Out of memory in output section 'data1' in processor 'p0'
+        Total of 0x28754 word(s) were not mapped.]]></TEXT>
+<EXTENDED_INFO><![CDATA[0x143aa words required for Debug\progdma.doj(data1):0x0
+0x143aa words required for Debug\progdma.doj(data1):0x0
+]]></EXTENDED_INFO>
+</MSG>
+</DOCUMENT>
